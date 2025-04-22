@@ -39,9 +39,3 @@ The application connects to the evaluation service API endpoints:
 - Authentication and registration
 - Number calculation endpoints
 - Social media data endpoints
-
-## Student Details
-
-- Name: Azhagammai
-- Roll No: 727622BAD094
-- College: Dr.Mahalingam College of Engineering and Technology 
