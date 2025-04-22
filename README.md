@@ -1,6 +1,10 @@
-# 727622BAD094 - Social Media Analytics with Number Calculator
+Social Media Analytics with Number Calculator
 
 A React application that combines social media analytics with a number calculation service.
+
+# First_Page
+
+<img src="Feed.png" width=200px>
 
 ## Features
 
