@@ -3,8 +3,16 @@ Social Media Analytics with Number Calculator
 A React application that combines social media analytics with a number calculation service.
 
 # First_Page
+![Feed](Feed.png)
 
-<img src="Feed.png" width=200px>
+# Second_Page
+![Trending](Trending_Post.png)
+
+# Third_Page
+![Top Users](Top_Users.png)
+
+# Fourth_Page
+![Number Calculator](Number_Calculator.png)
 
 ## Features
 
